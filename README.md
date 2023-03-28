@@ -28,12 +28,12 @@
 <p>By using the Bot, you agree to these Terms of Service. If you have any questions or concerns, please contact us at [your contact information].</p>
 
 <h1>Privacy Policy</h1>
-<h1>What data do we store</h1>
-<h2>We do not store any personally identifiable data. In addition, Technical Director does not have Read Message Intent enabled and cannot read any discord messages.</h2>
-<h1>Who do we share data with?</h1>
-<h2>We do not share any data with third parties.</h2>
-<h1>HOW CAN I CONTACT YOU IF I HAVE CONCERNS ABOUT YOUR BOT?</h1>
-<h2>If you have any concerns you can contact us in our support server (https://discord.gg/cfNaXxJNSy)</h2>
-<h1>HOW CAN I REQUEST DATA TO BE REMOVED?</h1>
-<h2>As we do not store any personally identifiable data you cannot request it to be removed.</h2>
+<h2>What data do we store</h2>
+<p>We do not store any personally identifiable data. In addition, Technical Director does not have Read Message Intent enabled and cannot read any discord messages.</p>
+<h2>Who do we share data with?</h2>
+<p>We do not share any data with third parties.</p>
+<h2>How can I contact you if I have concerns about the bot?</h2>
+<p>If you have any concerns you can contact us in our support server (https://discord.gg/cfNaXxJNSy)</p>
+<h2>How can I request data to be removed</h2>
+<p>As we do not store any personally identifiable data you cannot request it to be removed.</p>
       </body>
