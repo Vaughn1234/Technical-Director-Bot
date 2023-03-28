@@ -1,8 +1,8 @@
 <body>
     <h1>Terms of Service for Discord Bot Technical Director</h1>
-    <p>By using the Discord Bot Technical Director ("the Bot"), you agree to be bound by these Terms of Service ("the Terms"). If you do not agree to these Terms, you should not use the Bot.</p>
+    <p>By using Technical Director ("the Bot"), you agree to be bound by these Terms of Service ("the Terms"). If you do not agree to these Terms, you should not use the Bot.</p>
     <h2>Use of the Bot</h2>
-<p>The Bot is designed to retrieve player data from the game Football Manager. It does not have any moderation features and does not save user data. You may use the Bot for personal or non-commercial use only.</p>
+<p>The Bot is designed to retrieve player data from the game Football Manager. It does not gather any user data. You may use the Bot for personal or non-commercial use only.</p>
 
 <h2>Prohibited Conduct</h2>
 <p>You agree not to use the Bot in any way that violates any applicable laws or regulations. You also agree not to use the Bot to harass, threaten, or otherwise harm any individual or group of individuals.</p>
@@ -15,9 +15,6 @@
 
 <h2>Limitation of Liability</h2>
 <p>In no event shall we be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the Bot.</p>
-
-<h2>Indemnification</h2>
-<p>You agree to indemnify and hold us harmless from any and all claims, damages, expenses, and liabilities, including reasonable attorneys' fees, arising out of your use of the Bot.</p>
 
 <h2>Termination</h2>
 <p>We reserve the right to terminate your access to the Bot at any time, for any reason, without notice.</p>
