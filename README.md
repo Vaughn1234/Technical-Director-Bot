@@ -1,5 +1,5 @@
 <body>
-    <h1>Terms of Service for Discord Bot Technical Director</h1>
+    <h1>Terms of Service</h1>
     <p>By using Technical Director ("the Bot"), you agree to be bound by these Terms of Service ("the Terms"). If you do not agree to these Terms, you should not use the Bot.</p>
     <h2>Use of the Bot</h2>
 <p>The Bot is designed to retrieve player data from the game Football Manager. It does not gather any user data. You may use the Bot for personal or non-commercial use only.</p>
@@ -26,4 +26,14 @@
 <p>We reserve the right to change these Terms at any time, without notice. Your continued use of the Bot after such changes constitutes your acceptance of the new Terms.</p>
 
 <p>By using the Bot, you agree to these Terms of Service. If you have any questions or concerns, please contact us at [your contact information].</p>
+
+<h1>Privacy Policy</h1>
+<h1>What data do we store</h1>
+<h2>We do not store any personally identifiable data. In addition, Technical Director does not have Read Message Intent enabled and cannot read any discord messages.</h2>
+<h1>Who do we share data with?</h1>
+<h2>We do not share any data with third parties.</h2>
+<h1>HOW CAN I CONTACT YOU IF I HAVE CONCERNS ABOUT YOUR BOT?</h1>
+<h2>If you have any concerns you can contact us in our support server (https://discord.gg/cfNaXxJNSy)</h2>
+<h1>HOW CAN I REQUEST DATA TO BE REMOVED?</h1>
+<h2>As we do not store any personally identifiable data you cannot request it to be removed.</h2>
       </body>
