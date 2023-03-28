@@ -27,6 +27,8 @@
 
 <p>By using the Bot, you agree to these Terms of Service. If you have any questions or concerns, please contact us at [your contact information].</p>
 
+    
+    
 <h1>Privacy Policy</h1>
 <h2>What data do we store</h2>
 <p>We do not store any personally identifiable data. In addition, Technical Director does not have Read Message Intent enabled and cannot read any discord messages.</p>
