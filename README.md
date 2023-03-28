@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Terms of Service for Discord Bot Technical Director</title>
-    <style>
-      h1 {
-        font-weight: bold;
-        font-size: 24px;
-      }
-      h2 {
-        font-weight: bold;
-        font-size: 18px;
-      }
-    </style>
-  </head>
-  <body>
+<body>
     <h1>Terms of Service for Discord Bot Technical Director</h1>
     <p>By using the Discord Bot Technical Director ("the Bot"), you agree to be bound by these Terms of Service ("the Terms"). If you do not agree to these Terms, you should not use the Bot.</p>
     <h2>Use of the Bot</h2>
@@ -46,4 +30,3 @@
 
 <p>By using the Bot, you agree to these Terms of Service. If you have any questions or concerns, please contact us at [your contact information].</p>
       </body>
-</html>
